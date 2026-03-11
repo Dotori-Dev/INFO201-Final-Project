@@ -1,6 +1,6 @@
 # Military Spending vs GDP Dashboard
 
-Live Dashboard: [View the Dashboard](https://dotori-dev.github.io/INFO201-Final-Project/)
+Live Dashboard: [View the Dashboard](https://dotori-dev.github.io/INFO201-Final-Project/Military_Spending_vs_GDP_Dashboard.html/)
 
 This project explores the relationship between military spending and GDP per capita across countries. The goal is to see how economic strength connects with defense spending and how those patterns change across different nations and time periods.
 
