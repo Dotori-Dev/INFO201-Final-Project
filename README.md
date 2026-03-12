@@ -24,7 +24,6 @@ Interactive features were implemented using the plotly library.
 - Quarto  
 - ggplot2  
 - plotly  
-- GitHub  
 
 ## Data Sources
 
